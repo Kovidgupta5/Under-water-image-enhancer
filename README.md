@@ -71,7 +71,6 @@ npm run dev
 ## 📂 Project Structure
 
 ```
-├── research_paper_outline.md          # Comprehensive research paper draft & outline
 ├── README.md                          # Project documentation
 └── underwater-enhancer-ui/
     ├── backend/
@@ -89,9 +88,3 @@ npm run dev
     ├── package.json
     └── vite.config.js
 ```
-
----
-
-## 📄 Research & Documentation
-
-A full academic outline is available in [`research_paper_outline.md`](./research_paper_outline.md) detailing the theoretical foundations, related work, neural blending architecture, and experimental validation.
